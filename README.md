@@ -5,3 +5,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sfdgsdf&label=Profile%20views&color=0e75b6&style=flat" alt="sfdgsdf" /> </p>
 
 ![DininduKavinda's Stats](https://github-readme-stats.vercel.app/api?username=DininduKavinda&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![DininduKavinda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DininduKavinda&theme=gruvbox&hide_border=true)
+![DininduKavinda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DininduKavinda&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
